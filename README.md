@@ -4,7 +4,7 @@
 Hi there! My name is Reinaldo Takashima Ouriques. I'm a passionate web developer with expertise in front-end and back-end technologies. I love building web applications and exploring new programming languages and frameworks. I'm constantly learning and expanding my skillset to stay up-to-date with the latest industry trends. Feel free to explore my GitHub repositories and projects!
 
 <div>
-  <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" alt="Sci-Fi/90's Anime GIF" align="right" width="30%">
+  <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" alt="Sci-Fi/90's Anime GIF" align="right" width="40%">
 
   ## 🏆 GitHub Stats
   ![Reinaldo Takashima Ouriques's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReinaldoTOuriques&show_icons=true&count_private=true&theme=dark)
