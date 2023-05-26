@@ -3,11 +3,15 @@
 
 Hi there! My name is Reinaldo Takashima Ouriques. I'm a passionate web developer with expertise in front-end and back-end technologies. I love building web applications and exploring new programming languages and frameworks. I'm constantly learning and expanding my skillset to stay up-to-date with the latest industry trends. Feel free to explore my GitHub repositories and projects!
 
-<div style="align: center">
-    <h2>🏆 GitHub Stats & Most Used Languages 🔝</h2>
-    <img alt="Reinaldo Takashima Ouriques's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ReinaldoTOuriques&show_icons=true&count_private=true&theme=dark" height="140em">
-    <img alt="Reinaldo Takashima Ouriques's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoTOuriques&layout=compact&theme=dark" height="140em">
-     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ReinaldoTOuriques&layout=compact&theme=dark" height="140em">
+<div style="text-align: center;">
+  <h2>🏆 GitHub Stats & Most Used Languages 🔝</h2>
+  <div style="display: inline-block; margin-right: 20px;">
+    <img alt="Reinaldo Takashima Ouriques's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ReinaldoTOuriques&show_icons=true&count_private=true&theme=dark" height="180em">
+  </div>
+  <div style="display: inline-block; margin-left: 20px;">
+    <img alt="Reinaldo Takashima Ouriques's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoTOuriques&layout=compact&theme=dark" height="180em">
+  </div>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ReinaldoTOuriques&layout=compact&theme=dark" height="180em">
 </div>
 
 ## 💻 Technologies and Tools 🧰
