@@ -10,7 +10,7 @@ Hi there! My name is Reinaldo Takashima Ouriques. I'm a passionate web developer
 </div>
 
 ## 💻 Technologies and Tools 🧰
-Here you can check out some of the frameworks and languages I use daily.
+Here you can check out some of the languages, frameworks and tools I use daily.
 
 ### Front-end 
 <div>
