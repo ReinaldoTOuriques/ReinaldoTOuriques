@@ -9,7 +9,7 @@ Hi there! My name is Reinaldo Takashima Ouriques. I'm a passionate web developer
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ReinaldoTOuriques&layout=compact&theme=dark" height="160em">
 </div>
 
-## 💻 Technologies and Tools 🧰
+## 💻 Technologies & Tools 🧰
 Here you can check out some of the languages, frameworks and tools I use daily.
 
 ### Front-end 
