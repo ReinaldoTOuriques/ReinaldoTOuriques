@@ -5,8 +5,8 @@ Hi there! My name is Reinaldo Takashima Ouriques. I'm a passionate web developer
 
 <div style="align: center;">
   <h2>🏆 GitHub Stats</h2>
-    <img alt="Reinaldo Takashima Ouriques's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ReinaldoTOuriques&show_icons=true&count_private=true&theme=dark" height="170em">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ReinaldoTOuriques&layout=compact&theme=dark" height="170em">
+    <img alt="Reinaldo Takashima Ouriques's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ReinaldoTOuriques&show_icons=true&count_private=true&theme=dark" height="160em">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ReinaldoTOuriques&layout=compact&theme=dark" height="160em">
 </div>
 
 ## 💻 Technologies and Tools 🧰
