@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile! 
 
-Hi there! My name is Reinaldo Takashima Ouriques. I'm a passionate web developer with expertise in front-end and back-end technologies. I love building web applications and exploring new programming languages and frameworks. I'm constantly learning and expanding my skillset to stay up-to-date with the latest industry trends. Feel free to explore my GitHub repositories and projects!
+I'm a Full-Stack Web Developer who loves to learn and explore new technologies so I can constantly expand my skillset and stay up-to-date with the latest industry trends. Feel free to explore my GitHub repositories and projects!
 
 <div style="align: center;">
   <h2>🏆 GitHub Stats</h2>
@@ -10,7 +10,7 @@ Hi there! My name is Reinaldo Takashima Ouriques. I'm a passionate web developer
 </div>
 
 ## 💻 Technologies & Tools 🧰
-Here you can check out some of the languages, frameworks and tools I use daily.
+Here you can check out some of the languages, frameworks, and tools that I currently use.
 
 ### Front-end 
 <div>
