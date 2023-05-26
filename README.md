@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile! 
 
-I'm a Full-Stack Web Developer who loves to learn and explore new technologies so I can constantly expand my skillset and stay up-to-date with the latest industry trends. Feel free to explore my GitHub repositories and projects!
+I'm a Full-Stack Web Developer who loves to learn and explore new technologies so I can constantly expand my skillset. Feel free to explore my GitHub repositories and projects!
 
 <div style="align: center;">
   <h2>🏆 GitHub Stats</h2>
