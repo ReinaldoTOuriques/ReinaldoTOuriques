@@ -10,7 +10,7 @@ I'm a Full-Stack Web Developer who loves to learn and explore new technologies s
 </div>
 
 ## 💻 Technologies & Tools 🧰
-Here you can check out some of the languages, frameworks, and tools that I currently use.
+Here you can check out some of the languages, frameworks and tools that I currently use.
 
 ### Front-end 
 <div>
@@ -47,7 +47,7 @@ Here you can check out some of the languages, frameworks, and tools that I curre
 </div>
 
 ## 📫 Contact Me
-If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me!
+If you have any questions, collaboration opportunities or just want to say hi, feel free to reach out to me!
 
 <div>
   <a href="https://www.linkedin.com/in/reinaldotaka/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
